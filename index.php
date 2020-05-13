@@ -46,6 +46,7 @@ include_once('cat.php');
             <span class="carousel-control-next-icon" aria-hidden="true"></span>
             <span class="sr-only">Next</span>
           </a>
+            <p> Hello</p>
         </div>
         <?php
       $products = array();
